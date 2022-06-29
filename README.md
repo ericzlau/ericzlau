@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Eric
-- 👀 I’m interested in going into law
-- 🌱 I’m currently learning CS50L (Computer Science for Lawyers), a free online course from Harvard
+Hi, I'm Eric and this account is for CS50L, Harvard's free introductory course on Computer Science for Lawyers.
 
 <!---
 ericzlau/ericzlau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
